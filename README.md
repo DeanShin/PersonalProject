@@ -1,5 +1,5 @@
 # Personal Project
-Personal Project is a custom map made for the indie puzzle game [Lingo](https://lingothegame.com/). The following document acts as the developer commentary for the map. This contains massive spoilers for the entirety of the map, including spoilers for every single meta-puzzle.
+[Personal Project](https://steamcommunity.com/sharedfiles/filedetails/?id=2995235984) is a custom map made for the indie puzzle game [Lingo](https://lingothegame.com/). The following document acts as the developer commentary for the map. This contains massive spoilers for the entirety of the map, including spoilers for every single meta-puzzle.
 
 ## The Idea
 
