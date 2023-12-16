@@ -19,3 +19,7 @@ The idea for Navy / Velvet came about serendipitously--it was either `FUSION` in
 Something that never panned out was having navy meta puzzles that would unlock after solving each arcana that would solve to the corresponding Persona characters' persona. There's still remnants of that idea in [#discord-lingo-custom](https://discord.com/channels/906661671144157205/1031312499775131789/1118707102790197278), where I have a puzzle that would have solved to Hermes.
 
 Additionally, I was going to have an area that was solely dedicated to Persona that would have unlocked after solving all 21 arcana, but I wasn't in love with the idea of having to either do enough wiki diving to pull enough good words that I hadn't used in navy puzzles before, reuse words that are in navy puzzles, or make heavy use of proper nouns to manifest that area into reality. I think the meta puzzles that it turned into are a much better finale to the map.
+
+## Multisolve Panels
+
+Multisolve panels came very late in development. I knew pretty early on that 'The World' panel was going to solve to 'The World' to help clue the achievement theme. Luckily enough, Hizami created a script that allowed for multi-solve panels to save to file, which I then adapted to work with achievements, different answer colors, and conditionally opening doors. I'm glad that I put the effort in though, since the 'aha' moment still exists, even for players who got the achievement puzzle theme in either Floor 1 / Floor 2 release.

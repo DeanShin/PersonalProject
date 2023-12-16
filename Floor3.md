@@ -1,15 +1,15 @@
 # Floor 3
 
-## Area 15
+## The Devil
 
-## Area 16
+## The Tower
 
-## Area 17
+## The Star
 
-## Area 18
+## The Moon
 
-## Area 19
+## The Sun
 
-## Area 20
+## Judgement
 
-## Area 21
+## The World
