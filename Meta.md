@@ -4,9 +4,11 @@
 
 Originally, there was not going to be any Meta area as the final area. Once you got that the velvet theme was Persona, you'd have one final area to complete that was all Persona-themed answers. I couldn't really do that however given all of the navy blocks already in the map, plus it didn't seem like a good capstone ending to the map, so I decided against it.
 
-### Orange Hell & The Fool
+### The Fool & Orange Hell
 
+`THE FOOL` was originally going to be the achievement for the Persona-themed answer area, but when I was developing The Star and saw that `WILDCARD` was an answer there, I knew that I had to place `THE FOOL` there. Now the issue turned into 'how can I clue that `THE FOOL` is located there?' Having some sort of orange cipher was my first idea, and using substrings of tarot cards came soon after. The letter obfuscation was inspired by Souvey's magic eye room in Code 2--when I saw that horrid wall of text, I knew that I had to make one of my own.
 
+The solution for the puzzle also changed throughout the development of Floor 3 as well--originally, it solved to `THE FOOL THE CLUELESS PILLAR OF THE STARS`, and `THE FOOL` was a snipe that you would make where the missing clue was, but when I added the multi-answer panel script, I changed it over to its current iteration.
 
 ### The Soundtrack
 
