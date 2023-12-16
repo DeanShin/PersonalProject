@@ -2,9 +2,9 @@
 
 When I asked players of PP what they would want to see in Floor 3, everyone unanimously said that they wanted more mechanic-driven puzzles like The Lovers and The Hanged Man at around the same difficulty as Floor 2. I at least got half of that equation right. Floor 3 was designed to have a new mechanic in each area, and, after the initial round of playtests, a massive challenge fitting of 'endgame' for players.
 
-## The Devil
+## The Devil / The Crimson
 
-## The Tower
+## The Tower / The Spire
 
 Funnily enough, The Tower was the second or the third area that I ideated for Personal Project and was therefore the first area that I made for floor 3. This area was designed to be a more difficult version of the Gemstone Room in LL1 and the Human tower in LL2.
 
@@ -12,9 +12,9 @@ The idea to obfuscate the floor number only came as I was laying out the section
 
 Two stacks ended up being changed during development. The triple letter stack originally was much more convoluted--it was words that contained the nth symbol of the periodic table twice (*H*US*H*, *HE*ARTAC*HE*, etc.). The 12 days of Christmas stack was originally the different levels of Celeste, which was removed once I finalized the theme for The Sun.
 
-## The Star
+## The Star / The Asterisk
 
-## The Moon
+## The Moon / The Lunatic
 
 Of the areas in Floor 3, I'm definitely the least happy with The Moon. The mechanic was inspired by an [Icely video where he played the Word Scramble Baba puzzle pack](https://youtu.be/NPXXNDIpbwc?si=Wm0ZWwXJ9lDbVE69). The theme works fine, and it's funny how each one of the panels looks like gobbledygook, but the mechanic didn't end up being that interesting to me.
 
@@ -22,8 +22,8 @@ However, I did need to keep the mechanic to interface with the light black regex
 
 You might also say that this mechanic is very similar to dots in Icely Palace to which I'll say, "Yes, I completely forgot that Icely made this mechanic already".
 
-## The Sun
+## The Sun / The Celestial Body
 
-## Judgement
+## Judgement / Verdict
 
 ## The World
