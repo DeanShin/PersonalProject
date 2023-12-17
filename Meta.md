@@ -4,6 +4,10 @@
 
 Originally, there was not going to be any Meta area as the final area. Once you got that the velvet theme was Persona, you'd have one final area to complete that was all Persona-themed answers. I couldn't really do that however given all of the navy blocks already in the map, plus it didn't seem like a good capstone ending to the map, so I decided against it.
 
+### Multisolve Panels
+
+Multisolve panels came very late in development. I knew pretty early on that 'The World' panel was going to solve to 'The World' to help clue the achievement theme. Luckily enough, Hizami created a script that allowed for multi-solve panels to save to file, which I then adapted to work with achievements, different answer colors, and conditionally opening doors. I'm glad that I put the effort in though, since the 'aha' moment still exists, even for players who got the achievement puzzle theme in either Floor 1 / Floor 2 release.
+
 ### The Fool & Orange Hell
 
 `THE FOOL` was originally going to be the achievement for the Persona-themed answer area, but when I was developing The Star and saw that `WILDCARD` was an answer there, I knew that I had to place `THE FOOL` there. Now the issue turned into 'how can I clue that `THE FOOL` is located there?' Having some sort of orange cipher was my first idea, and using substrings of tarot cards came soon after. The letter obfuscation was inspired by Souvey's magic eye room in Code 2--when I saw that horrid wall of text, I knew that I had to make one of my own.

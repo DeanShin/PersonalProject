@@ -2,7 +2,7 @@
 
 ## Transparent Blue
 
-Transparent Blue (and Transparent Red by extension) was inspired by Pastel Cyan in Tofu--originally, the middle height would have been affixes instead of word roots, but there's not a lot of those in English, and word roots are more versatile. I was also planning on using transparent blue checkered with navy to clue AGI / BUFU / ZIO etc. in a navy-only area, but I figured that people would have had enough wiki hunting with all of the other navies.
+Transparent Blue (and Transparent Red by extension) was inspired by Pastel Cyan in Tofu--originally, the middle height would have been affixes instead of word roots, but there's not a lot of those in English, and word roots are more versatile. I was also planning on using transparent blue checkered with navy to clue `AGI` / `BUFU` / `ZIO` etc. in a navy-only area, but I figured that people would have had enough wiki hunting with all of the other navies.
 
 ## Transparent Red
 
@@ -10,7 +10,7 @@ Transparent Red and more specifically, transparent red checkered black came abou
 
 ## Justice / Ice
 
-Just ice. This area was inspired by The Lovers' red-blue chain mechanic, which made me think "How can I have another room with absurdly long chains"? I started off with different types of chains all starting from the word 'ICE', but then narrowed my scope to only include blue checkered yellow. If I remember right, the idea to make the answer for all of the chains "ice" came about from the ICE -> RICE -> RELIC -> ECLAIR -> GLACIER -> ICE chain.
+Just ice. This area was inspired by The Lovers' red-blue chain mechanic, which made me think "How can I have another room with absurdly long chains"? I started off with different types of chains all starting from the word 'ICE', but then narrowed my scope to only include blue checkered yellow. If I remember right, the idea to make the answer for all of the chains "ice" came about from the `ICE` -> `RICE` -> `RELIC` -> `ECLAIR` -> `GLACIER` -> `ICE` chain.
 
 ## The Hermit / The Hikikomori
 
@@ -18,7 +18,7 @@ Ahh yes, my favorite area. I remember that I was struggling to figure out what T
 
 The next challenge after that however was how to make interesting puzzles for the section. **Proper nouns are not fun to type in**, so I needed some way to circumvent that requirement for the area to be enjoyable, which inspired the adjective-noun structure of the area. Coming up with those adjectives and nouns was also a large task--most of the VTubers had canonical nouns that I could use (e.g. Ina is a Priestess of the Ancient Ones), and others I had to more digging for (I haven't really watched Gen 0). I also collaborated with Arisu to come up with some of the adjective-noun pairs, so massive thanks to them.
 
-Funnily enough, as I was developing the area, Hololive EN Advent was announced and debuted, so I *had* to create an entirely new floor to fit them in. I'm also really happy with the puzzles in the area--they all are pretty fair, and there's a lot of fun ones in there (A-DOOR-ABLE is classic), even though I didn't create a new mechanic for the area.
+Funnily enough, as I was developing the area, Hololive EN Advent was announced and debuted, so I *had* to create an entirely new floor to fit them in. I'm also really happy with the puzzles in the area--they all are pretty fair, and there's a lot of fun ones in there (`A-DOOR-ABLE` is classic), even though I didn't create a new mechanic for the area.
 
 ## 9.5 / Hololive Heaven
 
@@ -34,7 +34,7 @@ Boy am I glad that there was such an obvious mechanic for this tarot card. I thi
 
 ## Death / Execution
 
-My major in college is Computer Science, so making an area about programming was a given. The idea behind this area was to make very messy wall of panels, and to have the player parse what was actually going on, but I don't think that that ended up being as much of an issue for people as I thought. The `INTERMEDIATE`` grays were stolen from Tofu to make the double wides easier, but in hindsight, a lot of them can probably be removed.
+My major in college is Computer Science, so making an area about programming was a given. The idea behind this area was to make very messy wall of panels, and to have the player parse what was actually going on, but I don't think that that ended up being as much of an issue for people as I thought. The `INTERMEDIATE` grays were stolen from Tofu to make the double wides easier, but in hindsight, a lot of them can probably be removed.
 
 ## Temperance / Virtue
 
