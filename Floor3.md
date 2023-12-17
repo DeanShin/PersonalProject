@@ -14,6 +14,12 @@ Two stacks ended up being changed during development. The triple letter stack or
 
 ## The Star / The Asterisk
 
+Of all of the areas, I'm probably the most proud with how this one turned out. Given that the next couple areas were `THE STAR`, `THE MOON`, and `THE SUN`, I needed some way to differentiate each area thematically so that there was no overlap between areas.
+
+The design for the area (an asterisk) came before I fully created puzzles for the area, which necessitated that I make 12-13 puzzles times 6. This meant that I had to come up with enough puzzles and submechanics using Regex to fill the area. Luckily, Regex is extremely powerful and has tons of tools.
+
+Also, the color name is canonically light black.
+
 ## The Moon / The Lunatic
 
 Of the areas in Floor 3, I'm definitely the least happy with The Moon. The mechanic was inspired by an [Icely video where he played the Word Scramble Baba puzzle pack](https://youtu.be/NPXXNDIpbwc?si=Wm0ZWwXJ9lDbVE69). The theme works fine, and it's funny how each one of the panels looks like gobbledygook, but the mechanic didn't end up being that interesting to me.
