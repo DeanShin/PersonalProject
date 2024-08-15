@@ -9,3 +9,4 @@
 - [Floor 2](Floor2.md)
 - [Floor 3](Floor3.md)
 - [Meta & ARG](Meta.md)
+- [Sheet Music](./sheet%20music/)
